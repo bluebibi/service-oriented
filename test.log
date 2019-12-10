@@ -1,0 +1,1725 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:루트 경로 호출!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:22:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:25:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+ERROR:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:25:58] "GET / HTTP/1.1" 200 -
+ERROR:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:26:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+ERROR:root:before_request
+ERROR:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:30:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:before_request
+ERROR:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:31:04] "GET / HTTP/1.1" 200 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:31:13] "GET /add/10.0/20.0 HTTP/1.1" 200 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:32:03] "GET /dasodkasodkasodkaso HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:46:56] "GET /news/main HTTP/1.1" 404 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:46:58] "GET /news/main HTTP/1.1" 404 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:46:59] "GET /news/main HTTP/1.1" 404 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:47:02] "GET /news/news/main HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:49:50] "GET /news/main HTTP/1.1" 200 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:49:54] "GET /news/sports HTTP/1.1" 200 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:49:59] "GET /news/science HTTP/1.1" 200 -
+INFO:root:before_request
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 11:50:03] "GET /news/sports HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:17:11] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:18:32] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:18:54] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:18:55] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:28:53] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:28:53] "GET /css/bootstrap.min.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:28:53] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:28] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:28] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:29] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:30] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:30] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:31] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:29:51] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:09] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:09] "GET /static/js/bootstrap.min.js.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:09] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:10] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:21] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:22] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:22] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:37] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:30:37] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:31:06] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:31:07] "GET /html_test HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+ERROR:root:root!!!!
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:33:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:33:10] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:33:33] "GET /html_test HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:34:47] "GET /html_test HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:34:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:36:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:41:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:43:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:43:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:44:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:44:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:44:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:44:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:45:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:48:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2019 12:48:01] "GET / HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:24] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:24] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:24] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:33] "GET /static/js/bootstrap.min.js.map HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:21:33] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:26:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:27:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:27:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:28:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:29:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:31:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:31:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:35:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:35:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:35:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:36:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:36:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:37:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:38:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:41:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:44:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:45:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:50:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:50:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:50:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:51:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:52:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:53:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 11:54:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:05:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:09:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:10:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:11:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:11:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:13:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:13:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:13:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:14:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:14:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:15:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:16:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:17:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:17:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:17:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:17:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:18:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:18:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:19:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:20:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:20:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:22:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:23:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:23:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:23:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:24:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:24:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:25:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:25:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:25:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:26:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:26:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:27:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:28:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:29:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:33:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:34:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:34:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:35:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:38:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:39:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:39:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:39:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:40:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:41:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:41:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:41:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:41:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:42:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:43:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:43:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:45:28] "GET /images/card-image.png HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:45:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:45:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:45:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:46:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:46:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:47:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:47:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:47:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:47:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Oct/2019 12:48:17] "GET / HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2019 12:04:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2019 12:04:39] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2019 12:04:40] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2019 12:04:40] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2019 12:39:34] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:39:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:39:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:39:07] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:39:08] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:44:46] "GET /resource/t1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:45:11] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:46:29] "GET /resource/t22222 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 11:48:09] "GET /resource/t22222 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:18:36] "GET /resource/t1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:18:55] "GET /resource/t1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:19:19] "GET /resource/t1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:21:26] "DELETE /resource/t1 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:00] "GET /resource/t1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:15] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:35] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:36] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:37] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:48] "DELETE /resource/t1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:50] "DELETE /resource/t1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:22:51] "DELETE /resource/t1 HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\reset_server\\resource.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:24:01] "DELETE /resource/t1 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:24:06] "DELETE /resource/t1 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:24:07] "DELETE /resource/t1 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:24:49] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:25:40] "PUT /resource/t2?temparature=100 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:26:06] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:26:21] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:27:20] "PUT /resource/t2?temperature=100.0&datetime=2019-10-01%2008:18:00&location=1st%20Floor,%204th%20Engineering%20Building,%20KoreaTech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:27:29] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:28:10] "GET /resource/t2?temperature=100 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:28:19] "PUT /resource/t2?temperature=1000 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:28:29] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:30:19] "PUT /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:30:25] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:31:30] "PUT /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:31:37] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:32:28] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:32:39] "PUT /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:32:49] "PUT /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:32:55] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:40:33] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:40:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:41:23] "GET /resource_check HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:41:34] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:43:22] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:43:23] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:43:24] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:43:39] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:08] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:09] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:10] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:52] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:53] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:54] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:54] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:54] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:45:55] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:06] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:33] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:34] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:35] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:35] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:36] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:36] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:48:36] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:80/ (Press CTRL+C to quit)
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:49:42] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:50:04] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2019 12:50:04] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:12:59] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:12:59] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:14:06] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:14:12] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:14:12] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:14:42] "PUT /resource/t2?temperature=100000 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:14:53] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:15:26] "DELETE /resource/huhuhuhu HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:15:34] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:32:28] "POST /resource_creation HTTP/1.1" 409 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:32:41] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:33:03] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:45:51] "GET /resource_location/1 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\database\\resource_db_access.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:49:38] "GET /resource_location/1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:50:10] "GET /resource_location/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:50:27] "GET /resource_location/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 11:50:55] "GET /resource_location/wi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:07:54] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:08:09] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:10:36] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:18:21] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:20:45] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:20:45] "GET /resource_location/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:20:57] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:20:57] "GET /resource_location/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:21:34] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:21:34] "GET /resource_location/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:21:40] "DELETE /resource/huhuhusssssssshu HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:22:01] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:22:02] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:22:41] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:22:47] "PUT /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:22:50] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:23:10] "DELETE /resource/t3 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:24:52] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:25:49] "DELETE /resource/t4 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:27:57] "DELETE /resource/t4 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:28:02] "DELETE /resource/t4 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:28:08] "DELETE /resource/t5 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:28:15] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:28:18] "DELETE /resource/t5 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:29:36] "DELETE /resource/t5 HTTP/1.1" 204 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:31:24] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:31:24] "GET /resource_location/2 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:32:31] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:32:31] "GET /resource_location/2 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:33:19] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:33:32] "POST /resource_creation HTTP/1.1" 201 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:33:35] "GET /resource/resource_check HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:36:06] "GET /resource/t2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2019 12:36:06] "GET /resource/t3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\reset_server\\resource.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:48:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:48:20] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:48:20] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:48:20] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:48:27] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%EC%84%A4%ED%98%84 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [30/Oct/2019 12:49:56] "GET /news/images HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:06:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:06:51] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:06:51] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:06:52] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%EC%84%A4%ED%98%84 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:07:08] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:29] "GET /news/images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:29] "GET /news/images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:30] "GET /news/images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:30] "GET /news/images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:30] "GET /news/images?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:30] "GET /news/images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:30] "GET /news/images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:36] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:34:37] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:35:44] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:35:56] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:36:05] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:43:54] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:44:13] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 11:48:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:26:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:26:03] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:31:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:31:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:32:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:33:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:34:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:36:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:37:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:38:03] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:41:46] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:42] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:43] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:44] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:45] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:45] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:48] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:49] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:50] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:51] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:52] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:53] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:54] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:55] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:56] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:57] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:42:59] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:43:00] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:43:01] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:43:02] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:43:03] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:20] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:21] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:23] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:24] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:25] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:25] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:26] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:27] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:28] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:29] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:33] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:35] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:36] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:37] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:48:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:49:39] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:49:39] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:50:06] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:50:07] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:50:13] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2019 12:50:14] "GET /news/images HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:41] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:41] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:44] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:47] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:48] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:53] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:13:54] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:14:00] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:14:02] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:14:03] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:14:05] "GET /news/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:14:27] "GET /news/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\news.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\menus.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:33:11] "GET /news/images HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:33:12] "GET /news/images HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:33:17] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:33:19] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\menus.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:15] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:16] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:21] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:22] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:24] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:24] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:26] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:38:27] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:49:09] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:55:54] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:55:55] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:56:25] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:15] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:33] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:34] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:46] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:47] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:56] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:57] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 11:57:57] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:16:54] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:25] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:26] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:26] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:36] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:37] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:37] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:19:59] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:20:31] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:20:34] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:20:35] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:20:36] "GET /menus/books HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:23:11] "GET /resource/t3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\reset_server\\resource.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:24:16] "GET /resource/t3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\reset_server\\resource.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:25:27] "GET /resource/t3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\reset_server\\resource.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:27:13] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:27:18] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:27:37] "GET /resource/t3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\menus.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\menus.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:00] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:01] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:02] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:03] "GET /menus/books HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:33] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:34] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:35] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:36] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:37] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:38] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2019 12:30:38] "GET /menus/books HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:33:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:33:39] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:33:39] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:36:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:37:09] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:37:29] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:39:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:39:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:40:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:41:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:46:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:46:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:46:14] "GET /auth/signup HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:46:16] "GET /auth/login HTTP/1.1" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:47:34] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:47:35] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:47:36] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 12:47:36] "GET / HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:10:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:10:06] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:10:07] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:49] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:34:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:21] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:24] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:24] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:25] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:25] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:26] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:26] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:30] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:40:30] "GET /auth/login HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:41:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:41:05] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:41:10] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:41:10] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:41:58] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:42:40] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:42:40] "GET /static/images/kakao_account_login_btn_medium_narrow.png HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:47:50] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:47:50] "GET /static/image/kakao_account_login_btn_medium_narrow.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:50:13] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:50:19] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:50:27] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:flask_wtf.csrf:The CSRF token is invalid.
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:53:07] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:54:27] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 11:55:36] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:04:27] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:04:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:05:07] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:05:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:05:08] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:06:14] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:06:14] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:10:47] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:13:24] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:18:37] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:18:38] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:18:45] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:18:45] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:19:32] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:19:39] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:19:39] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:22:28] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:22:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:31] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:37] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:43] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:43] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:53] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:24:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:25:13] "GET /auth/my_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:32:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:32:40] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:32:44] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:32:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:32:47] "GET /auth/my_page HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:36:00] "POST /auth/my_page HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:36:00] "GET /auth/my_page HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:36:16] "POST /auth/my_page HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:14] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:16] "GET /auth/signup HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:38:17] "GET /auth/signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:41:09] "GET /auth/signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:43:51] "POST /auth/signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:43:51] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:49:26] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:49:32] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:49:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2019 12:49:35] "GET /auth/my_page HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:18:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:18:07] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:18:07] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:21:01] "GET /auth/signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:21:23] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:21:23] "GET /static/image/kakao_account_login_btn_medium_narrow.png HTTP/1.1" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:33] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v1/user/me HTTP/1.1" 200 328
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:35] "GET /auth/kakao_oauth_redirect?code=xS0QDCBXYK3JOMCvisx7Ppu2BLVKLIFvJsT5OXMslM2KS-sirg5cz3XzvYxPFZgIli5O2AopyNoAAAFuqskbNw HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:35] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v1/user/logout HTTP/1.1" 200 17
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:39] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 11:55:41] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v1/user/me HTTP/1.1" 200 328
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:09] "GET /auth/kakao_oauth_redirect?code=Ew3_Sh5E3kQ-BNhyBf3y7BLJoCAX5JH-_JV46Ub63fY_J1nYnihLawaXj9XfrLIlbJvCwwo9dNoAAAFuquQvWQ HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:16] "GET /auth/login HTTP/1.1" 302 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v1/user/logout HTTP/1.1" 200 17
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:19] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:25:21] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v1/user/me HTTP/1.1" 200 328
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:27:23] "GET /auth/kakao_oauth_redirect?code=oGQuv9BJoYzmDoDRK-sOpJEjyFR1hz1ri3thSEUqMPQI1oEPdVpLQQy5jDlvua7eumrlggopdbMAAAFuquY6LA HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:27:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:41:26] "GET /auth/logout HTTP/1.1" 401 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:41:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:41:33] "GET /auth/signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:41:36] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?code=Dw2x0Hmn-7NG4vLmgA3ueid3LeHADxi9OYxIk15WcpWpqJDBAOK-huGt8ijXbcsiDCeMtwo9dNsAAAFuqvhrVA HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:17] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:23] "GET /auth/login HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:33] "GET /auth/kakao_oauth_redirect?code=0c05fvXvTVFulQldaoY-X0UVpfSwrxoxfUnIUP4qUuU3sxsmNiQlxPiqaVdFLLsSza3vLAo9dNsAAAFuqvivEQ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:33] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:33] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:33] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:34] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:47:34] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2019 12:51:45] "GET /auth/login HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:05] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:06] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:09] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:09] "GET /static/image/kakao_account_login_btn_medium_narrow.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:08:37] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:52] "GET /auth/kakao_oauth_redirect?code=LTwxPtSVOkDnpidB7hwTPlnwYW1UIQM1RyHeVjOevJgc7YNHNS3I34gwgwvtBdRGNWWsIQo9dZoAAAFuyYvNVA HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:52] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:52] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:52] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:53] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:16:53] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:29] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:30] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:31] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:32] "GET /auth/kakao_oauth_redirect?code=sKDbyRSHfmhCcUbBOnuVDulUOvXomlY0hrneE9_bEniMAvWnHQ8KMQY-iFhZmIqTeBSGngo9dRoAAAFuyYxsDQ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:32] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:32] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:32] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:33] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:17:33] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:20:16] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:20:18] "GET /auth/signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:20:24] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:24] "GET /auth/kakao_oauth_redirect?code=BdHq70dLMrESZJOG6XCnBJQ3TS75pL_gYOWtKlv4VV5ry55OLi8aZ4XBzBuVy604NrFjvQo9dycAAAFuyZDf6A HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:24] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:25] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:25] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:25] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:22:25] "GET /auth/kakao_oauth_redirect?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:24:48] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:24:50] "GET /auth/kakao_oauth_redirect?code=e3MQPEnvpZ1LCmdHoyQMMsucr7mjw909QiNos7lhbBRUbSoJBEwvUtNMborz6eBBIKmhSwopyWAAAAFuyZMZbA HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:24:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:25:10] "GET /auth/my_page HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:47:18] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\web_service_2\\views\\menus.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:21] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:23] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:25] "GET /auth/login HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kauth.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kauth.kakao.com:443 "POST /oauth/token HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://kapi.kakao.com:443 "POST /v2/user/me HTTP/1.1" 200 839
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:26] "GET /auth/kakao_oauth_redirect?code=3VP2U4uaErNLIhdOz9C5O2u89sHiEaQHh-T5_lLzcx7LgXbRN4W4rnJmP-y7ipwofAjrgQo9dNkAAAFuyaxhFg HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:27] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:29] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:31] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:32] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:43] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:52:59] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:00] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:07] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:08] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:08] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:15] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:16] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:19] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:23] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:24] "GET /menus/books HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:53:30] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:01] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:02] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:05] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:06] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:07] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:08] "GET /menus/books HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:09] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:11] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:12] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:13] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:14] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:17] "GET /menus/images HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:18] "GET /menus/books HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:19] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2019 11:54:20] "GET / HTTP/1.1" 200 -
+INFO:root:Flask Web Server Started!!!
+INFO:werkzeug: * Restarting with stat
+INFO:root:Flask Web Server Started!!!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-849-379
+INFO:werkzeug: * Running on http://localhost:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:28:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:28:33] "GET /static/assets/css/material-dashboard.css?v=2.1.1 HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:28:33] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v2/search/image?query=%ED%8C%8C%EC%9D%B4%EC%8D%AC HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:28:35] "GET /menus/images HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:29:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:29:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:29:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:29:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:30:56] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:01] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:03] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:31:53] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:18] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:19] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dapi.kakao.com:443
+DEBUG:urllib3.connectionpool:https://dapi.kakao.com:443 "GET /v3/search/book?target=title&query=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:23] "GET /menus/books HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:32:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/core/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/core/popper.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/plugins/bootstrap-notify.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/plugins/perfect-scrollbar.jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/core/bootstrap-material-design.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /static/assets/js/plugins/chartist.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:03] "GET /assets/js/material-dashboard.js?v=2.1.1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:34:04] "GET /assets/js/material-dashboard.js?v=2.1.1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:40:06] "GET /static/assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:42:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:42:22] "GET /assets/js/material-dashboard.js?v=2.1.1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:42:22] "GET /assets/js/material-dashboard.js?v=2.1.1 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:45:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:45:13] "GET /static/assets/js/material-dashboard.js?v=2.1.1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:45:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:47:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:48:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 11:48:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 12:26:16] "GET / HTTP/1.1" 200 -
